@@ -6,6 +6,11 @@
 **Project guidelines & instructions :**
 >Jennifer Edwards is the organizer of the "Plein Air" film festival. She's planning on selecting & screening independant movies outdoor from august the 5th to the 8th inside the Monceau Park located in Paris. Her organization is brand new and she doesn't have an unlimited amount of money. She needs to communicate online about her festival, to announce the movies that will be aired & collect reservations.
 
+**Deliverables :**
+- Full HTML / CSS / PHP code of the project 
+- Website's URL
+- Specifications document of the project
+
 **Assessed skills :**
 1. Choose a fitted technical solution amongst all existing ones if that is relevant
 2. List functionalities asked by a client
